@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.786696c6.css",
+    "main.js": "./static/js/main.4f257d83.js",
+    "static/js/27.bad1cde6.chunk.js": "./static/js/27.bad1cde6.chunk.js",
+    "static/media/header_t-shirts2.avif": "./static/media/header_t-shirts2.77a8f0831ef7cefc13af.avif",
+    "index.html": "./index.html",
+    "static/media/apple.svg": "./static/media/apple.fd5844ff7d2dd35961e285c1d45cf481.svg"
+  },
+  "entrypoints": [
+    "static/css/main.786696c6.css",
+    "static/js/main.4f257d83.js"
+  ]
+}
